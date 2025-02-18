@@ -4,9 +4,9 @@ Potator
 FFUF
 
 ## Инструментарий для генерации словарей
-cewl
-List generator
-cuup
+- cewl
+- List generator
+- cuup
 
 ## Что почитать? 
 https://xakep.ru/2009/08/13/49191/
