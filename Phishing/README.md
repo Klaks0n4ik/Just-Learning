@@ -111,3 +111,5 @@ Excel/Pandas - инструменты для обработки CSV-логов �
 
 ![изображение](https://github.com/user-attachments/assets/e577df28-b993-4b4e-9e25-1ad627cbd8da)
 
+![изображение](https://github.com/user-attachments/assets/0cf353e7-0acb-49a0-8c38-772bfbc0b2fb)
+
